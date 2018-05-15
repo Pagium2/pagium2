@@ -3,7 +3,7 @@
     "pagium2": "./bin/pagium2.js"
   },
   "name": "pagium2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "lego system command line",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
   "dependencies": {
     "alphabetjs": "^0.1.4",
     "colors": "^1.2.4",
-    "commander": "^2.15.1"
+    "commander": "^2.15.1",
+    "pagium2-command-cli": "^1.0.1"
   }
 }
