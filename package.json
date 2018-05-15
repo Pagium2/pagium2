@@ -3,7 +3,7 @@
     "pagium2": "./bin/pagium2.js"
   },
   "name": "pagium2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "lego system command line",
   "main": "index.js",
   "scripts": {
